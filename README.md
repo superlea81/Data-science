@@ -3,11 +3,11 @@
 
 ###### [Leetcode 算法题](https://github.com/superlea81/becoming-data-scientist/tree/master/Leetcode) 总结[6] 进度[79] (java python争取同步进行)
 
-###### [基本算法和数据结构] （https://github.com/superlea81/Data-science/tree/master/Algorithm）
+###### [基本算法和数据结构](https://github.com/superlea81/Data-science/tree/master/Algorithm)
 
 ###### [吴恩达机器学习](https://github.com/superlea81/Data-science/tree/master/吴恩达机器学习)
 
-###### [Machine Learning] （https://github.com/superlea81/Data-science/tree/master/Machine%20Learning）
+###### [Machine Learning](https://github.com/superlea81/Data-science/tree/master/Machine%20Learning)
 
 ###### [西瓜书]
 
